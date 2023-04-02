@@ -1,0 +1,11 @@
+C:\GitHub\WindowsApp\src\GameResources\GameResources\bin\Release\GameResources.exe.config
+C:\GitHub\WindowsApp\src\GameResources\GameResources\bin\Release\GameResources.exe
+C:\GitHub\WindowsApp\src\GameResources\GameResources\bin\Release\GameResources.pdb
+C:\GitHub\WindowsApp\src\GameResources\GameResources\obj\Release\GameResources.csproj.AssemblyReference.cache
+C:\GitHub\WindowsApp\src\GameResources\GameResources\obj\Release\GameResources.csproj.SuggestedBindingRedirects.cache
+C:\GitHub\WindowsApp\src\GameResources\GameResources\obj\Release\GameResources.Form1.resources
+C:\GitHub\WindowsApp\src\GameResources\GameResources\obj\Release\GameResources.Properties.Resources.resources
+C:\GitHub\WindowsApp\src\GameResources\GameResources\obj\Release\GameResources.csproj.GenerateResource.cache
+C:\GitHub\WindowsApp\src\GameResources\GameResources\obj\Release\GameResources.csproj.CoreCompileInputs.cache
+C:\GitHub\WindowsApp\src\GameResources\GameResources\obj\Release\GameResources.exe
+C:\GitHub\WindowsApp\src\GameResources\GameResources\obj\Release\GameResources.pdb
